@@ -47,4 +47,4 @@ class PaymentsEdit extends AbstractEditor<Payments> {
 
 ## Resulting application
 
-![Filter enum values](https://github.com/mariodavid/cuba-example-filter-enum-values/blob/master/img/filter-enum-values.png)
+![Filter enum values](https://github.com/mariodavid/cuba-example-filter-enum-values/blob/master/img/filter-enum-values.gif)
