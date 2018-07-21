@@ -14,14 +14,9 @@ import static de.diedavids.cuba.cefev.entity.Party.*
 
 class PaymentsEdit extends AbstractEditor<Payments> {
 
-    @Inject
-    protected FieldGroup fieldGroup
-
-    @Inject
-    protected ComponentsFactory componentsFactory
-
-    @Inject
-    protected Datasource<Payments> paymentsDs
+    @Inject FieldGroup fieldGroup
+    @Inject ComponentsFactory componentsFactory
+    @Inject Datasource<Payments> paymentsDs
 
     @Override
     void init(Map<String, Object> params) {
