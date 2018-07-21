@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<screen-config xmlns="http://schemas.haulmont.com/cuba/screens.xsd">
+    <screen id="cefev$Payments.browse"
+            template="de/diedavids/cuba/cefev/web/payments/payments-browse.xml"/>
+    <screen id="cefev$Payments.edit"
+            template="de/diedavids/cuba/cefev/web/payments/payments-edit.xml"/>
+</screen-config>
